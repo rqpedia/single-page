@@ -1,1 +1,1 @@
-Desmo : https://rqpedia.org
+Demo : https://rqpedia.org
